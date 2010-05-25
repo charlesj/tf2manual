@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 12:15
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 12:31
 entering extended mode
 **C:/code/tf2manual/tf2manual.tex
 (C:/code/tf2manual/tf2manual.tex
@@ -271,14 +271,7 @@ Package ifvtex Info: VTeX not detected.
 \Gm@dimlist=\toks17
 
 ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\geometry\geometry.cfg"))
-(C:\code\tf2manual\tf2manual.aux
-
-LaTeX Warning: Label `table_common_actions' multiply defined.
-
-
-LaTeX Warning: Label `table_common_actions' multiply defined.
-
-)
+(C:\code\tf2manual\tf2manual.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
@@ -299,15 +292,15 @@ LaTeX Font Info:    ... okay on input line 12.
 * paper: letterpaper
 * layout: letterpaper
 * switch(es): 
-* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=500.484pt
-* \textheight=681.15898pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* \textwidth=443.57848pt
+* \textheight=624.25346pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \footskip=30.0pt
@@ -349,29 +342,31 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
 ) [1]
-(C:\code\tf2manual\general_instructions.tex [2]) [3] [4]
-(C:\code\tf2manual\tf2manual.aux)
+(C:\code\tf2manual\general_instructions.tex [2] [3] [4]
+Overfull \hbox (13.4316pt too wide) in paragraph at lines 105--106
+\OT1/cmr/m/n/12 Medics may []Ubercharge more than one per-son. Medics con-tinue
+ heal-ing while []Ubercharged
+ []
 
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[5] [6]) [7] (C:\code\tf2manual\tf2manual.aux) ) 
 Here is how much of TeX's memory you used:
- 973 strings out of 495285
- 12739 string characters out of 3179869
- 68980 words of memory out of 3000000
- 4198 multiletter control sequences out of 15000+200000
+ 976 strings out of 495285
+ 12793 string characters out of 3179869
+ 68963 words of memory out of 3000000
+ 4201 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  23i,7n,19p,840b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tf2manual.pdf (6 pages, 82785 bytes).
+<C:/Program Files (x86)/MiKTeX 
+2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.
+8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.8/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.8/font
+s/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/ty
+pe1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tf2manual.pdf (9 pages, 92628 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -36,7 +36,7 @@ Combatants have a standardized way for controlling conduct on the battlefield:
 	\texttt{c}&Bring up Voice Menu 3\\
   	\hline
 \end{tabular}
-\label{table_common_actions}
+\label{table_voice_commands}
 \end{table}
 
 \begin{table}[h!b!p!]
@@ -51,7 +51,7 @@ Combatants have a standardized way for controlling conduct on the battlefield:
 	\texttt{.}&Change Team\\
   	\hline
 \end{tabular}
-\label{table_common_actions}
+\label{table_gameplay_actions}
 \end{table}
 
 Combatants may wish to customize these controls and can do so through the options menu, the console, or use configuration files. See Appendix A - Console on {{pageref}} for more information.
@@ -75,3 +75,53 @@ The Administrator has provided each class with a base set of weapons for use in 
 
 \subsection{Changing Loadout}
 Once a player is given a new weapon for a class (either through random drops, or earned through achievements), they can choose to equip the item by opening up the load out screen (default key 'm'). At the load out screen, one can select the primary, secondary, and melee weapons (as well as headgear and other items) to be equipped to the selected class.  Switching back to the default weapons is just as easy. Combatants can switch weapons as much as they want but the changes will not take effect until either they die and respawn or they touch a resupply cabinet in the spawn room.
+
+\subsection{Critical Hits}
+During play, combatants inflict damage to one another through various means of attack.  The damage caused by these attacks is based on the weapon being used and, generally, the distance to the enemy.  Every time a combatant uses their weapon, they have a chance of producing a critical hit.  Generally, these critical hits inflict 300\% the normal level of damage to an opponent (i.e. not buildings). Critical hits are identifiable by a team-colored glow around projectiles and a custom sound upon firing and upon collision with enemy.  Critical hits are often shortened to just "crits."
+Notes:
+\begin{itemize}
+	\item A server's configuration can increase or lower the number of critical hits a combatant produces. 
+	\item The base chance of producing a critical hit is 2\% for all non-melee, 15\% for melee weapons.
+	\item The more damage a combatant has done in the past 20 seconds, the higher the chance of a crit. This linearly scales with damage up to a maximum of an extra 10\%. 
+	\item Critical hits do not produce additional self-damage (e.g. Demoman's sticky bombs)
+\end{itemize}
+
+\subsection{Mini-Crits}
+Mini-crits are similar to critical hits in that they allow a combatant to inflict additional damage to their opponents.  However, they differ in several ways, as they:
+\begin{itemize}
+	\item Inflict 135\% the normal level of damage to an opponent
+	\item Are not random; rather, they are a direct result of one of the following:
+		\begin{itemize}
+			\item The victim is covered in a Sniper's Jarate (See Sniper section on {{pageref}})
+			\item A projectile has been reflected by a Pyro's airblast (See Pyro section on {{pageref}})
+			\item The attacker is within the range of a Soldier's Buff Banner (See Soldier section on {{pageref}})
+			\item The attacker or victim is under the influence of Crit-a-Cola (See Scout section on {{pageref}})
+			\item Hitting a combatant who is on fire with a Flare Gun (See Pyro section on {{pageref}})
+		\end{itemize}
+\end{itemize}
+Note: Crits and mini-crits do not stack
+
+\subsection{Übercharge}
+There are two types of "Übercharge" that can be created by the Medic. Übercharges involve the Medic and usually just one other player (the "patient"), although skilled Medics may Übercharge more than one person.  Medics continue healing while Übercharged so Übering a teammate is a great way to save his life if he is about to die, because he gets 8 seconds of undisrupted healing and invinciblity.
+
+\subsubsection{Standard Übercharge}
+A standard Übercharge is a buff deployed for 8 seconds by the Medic on one patient at a time. While the Übercharge is active, both the Medic and the patient are invulnerable to all damage. An Übercharge is a very important part of game mechanics, potentially allowing a team to overcome highly concentrated defenses, which would otherwise be impossible to overcome (e.g. well-defended choke points with sentries, etc.). The Medic can deploy an Übercharge only when his Übercharge meter is full. The Übercharge meter is filled by healing combatants, and healing combatants who are wounded fills the meter faster.
+
+\subsubsection{Kritz Übercharge}
+The Kritz is a fully-offensive variant of the Übercharge. It is deployed using the Kritzkrieg instead of the Medigun. Unlike the Übercharge, the Kritz confers no invulnerability to either the Medic or the patient, instead providing the patient with 100\% critical hit chance. It lasts 8 seconds like the Übercharge. The Kritz is especially useful when used on Soldiers, Heavies and Demomen.  
+
+\subsubsection{Reacting to an Enemy Übercharge or Kritzkrieg}
+Combatants who face an enemy Übercharge have several options, besides running away. First, they can become invulnerable by means of either two ways. If there is a Medic with a fully charged Über of his own, he can "pop" it on a fellow teammate and prevent both of their deaths. If a Scout is carrying Bonk Atomic Soda (see Scout {{pageref}}), drinking it will make him invulnerable as well.
+
+If a Pyro is carrying the Flamethrower, he can counter Übercharges through the use of his airblast.  He should blast Übercharges away from teammates or sentry positions.  Through repeated use of the airblast, an Übercharge can be completely countered in some cases.
+
+Combatants who face an incoming Kritz have fewer options. The most obvious option is to run and hide for the duration of the Kritz attack. The lesser known option is for a Sniper to use Jarate on them to prevent them from firing crits (See Sniper {{pageref}}).  It is important to note that unlike the standard Übercharge the Kritz does not provide invulnerability, so the Medic can be killed to end the Kritz.
+
+\subsubsection{Übercharging Multiple People}
+It is possible to Übercharge several patients by quickly switching between them during an Übercharge, however the downside is that the charge will drain much more quickly.
+
+\subsubsection{Übercharged Combatants}
+Combatants who find themselves Übercharged may initially panic, especially if they are not expecting it.  They should not panic, but concentrate the attack on the biggest threat, such as an enemy sentry nest.
+
+\subsubsection{Deploying an Übercharge}
+The key to a successful Übercharge deployment is communication.  Medics can keep their team updated on the status of their charge and let someone know when they are about to deploy the charge.  Combatants should inform the Medic if they need to pick up more ammo or reload before the charge.  A charge on someone without ammo is a wasted charge.  Combatants and Medics can work together to find the best time to deploy a charge.  Deploying it too early can waste the charge, and deploying it too late can get them killed before they are able to use the charge. 

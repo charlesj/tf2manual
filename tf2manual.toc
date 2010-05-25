@@ -1,9 +1,18 @@
 \contentsline {section}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {2}General Instructions}{2}
 \contentsline {subsection}{\numberline {2.1}Keyboard Controls}{2}
-\contentsline {subsection}{\numberline {2.2}Spawn Points \& Spawning}{2}
+\contentsline {subsection}{\numberline {2.2}Spawn Points \& Spawning}{3}
 \contentsline {subsection}{\numberline {2.3}Selecting a Class}{3}
 \contentsline {subsection}{\numberline {2.4}Maintaining Health}{3}
-\contentsline {subsection}{\numberline {2.5}Maintaining Ammunition}{3}
-\contentsline {subsection}{\numberline {2.6}Weapon Drops}{3}
+\contentsline {subsection}{\numberline {2.5}Maintaining Ammunition}{4}
+\contentsline {subsection}{\numberline {2.6}Weapon Drops}{4}
 \contentsline {subsection}{\numberline {2.7}Changing Loadout}{4}
+\contentsline {subsection}{\numberline {2.8}Critical Hits}{4}
+\contentsline {subsection}{\numberline {2.9}Mini-Crits}{5}
+\contentsline {subsection}{\numberline {2.10}\IeC {\"U}bercharge}{5}
+\contentsline {subsubsection}{\numberline {2.10.1}Standard \IeC {\"U}bercharge}{6}
+\contentsline {subsubsection}{\numberline {2.10.2}Kritz \IeC {\"U}bercharge}{6}
+\contentsline {subsubsection}{\numberline {2.10.3}Reacting to an Enemy \IeC {\"U}bercharge or Kritzkrieg}{6}
+\contentsline {subsubsection}{\numberline {2.10.4}\IeC {\"U}bercharging Multiple People}{6}
+\contentsline {subsubsection}{\numberline {2.10.5}\IeC {\"U}bercharged Combatants}{7}
+\contentsline {subsubsection}{\numberline {2.10.6}Deploying an \IeC {\"U}bercharge}{7}
