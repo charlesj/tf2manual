@@ -55,3 +55,4 @@
 \contentsline {subsection}{\numberline {7.6}Appendix F - Additional Battlefields}{38}
 \contentsline {subsection}{\numberline {7.7}Appendix G - Screenshots and Demo Recording}{39}
 \contentsline {subsection}{\numberline {7.8}Appendix H - Glossary and Jargon}{41}
+\contentsline {subsection}{\numberline {7.9}Appendix I - Additional Notes and Credits}{43}
