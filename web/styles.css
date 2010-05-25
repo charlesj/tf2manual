@@ -1,0 +1,63 @@
+body
+{
+	background: #34302D;
+	color: #F5E7DE;
+	font-family: sans-serif;
+}
+
+@font-face {
+  font-family: "tf2build";
+  src: url(resources/tf2build.ttf) format("truetype");
+}
+
+h1{ font-family: "tf2build", sans-serif; font-weight: bold; font-size: 40px; margin-bottom: 3px; }
+h2{ margin-top: 0px; font-size: 11px; }
+h3{ font-family: "tf2build", sans-serif; font-weight: bold; }
+
+
+a
+{
+	color: #fff;
+}
+
+.box, .redbox, .bluebox
+{
+ 	border-radius: 10px;
+	-moz-border-radius: 10px;
+	border: 3px solid black;
+	background-color: white;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	width: 380px;
+}
+
+.redbox
+{
+	border-color:  #9D312F;
+	background-color: #BD3B3B;
+}
+
+.bluebox
+{
+	border-color:  #395C78;
+	background-color: #5B7A8C;
+}
+
+#changelog
+{
+	clear: both;
+	padding-top: 10px;
+}
+
+h3
+{
+	border-bottom: 1px solid white;
+	width: 400px;
+}
+
+#footer
+{
+	clear: both;
+	padding-top: 10px;
+}
