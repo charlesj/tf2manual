@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 12:38
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 12:53
 entering extended mode
 **C:/code/tf2manual/tf2manual.tex
 (C:/code/tf2manual/tf2manual.tex
@@ -331,9 +331,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-)
+ [1])
 \tf@toc=\write3
- [1] (C:\code\tf2manual\introduction.tex
+ [2] (C:\code\tf2manual\introduction.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
 
 ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\omscmr.fd"
@@ -349,12 +349,18 @@ Overfull \hbox (13.4316pt too wide) in paragraph at lines 105--106
  []
 
 [5] [6]) [7] (C:\code\tf2manual\battlefields.tex [8] [9]) [10]
+(C:\code\tf2manual\classes.tex [11] (C:\code\tf2manual\scout.tex [12]) [13]
+(C:\code\tf2manual\soldier.tex [14]) [15] (C:\code\tf2manual\pyro.tex [16])
+[17] (C:\code\tf2manual\demo.tex [18]) [19] (C:\code\tf2manual\heavy.tex)
+[20] (C:\code\tf2manual\engineer.tex [21]) [22] (C:\code\tf2manual\medic.tex
+[23]) [24] (C:\code\tf2manual\sniper.tex [25]) [26] (C:\code\tf2manual\spy.tex
+[27]) [28] (C:\code\tf2manual\sandvich.tex)) [29]
 (C:\code\tf2manual\tf2manual.aux) ) 
 Here is how much of TeX's memory you used:
- 980 strings out of 495285
- 12891 string characters out of 3179869
- 68963 words of memory out of 3000000
- 4202 multiletter control sequences out of 15000+200000
+ 1014 strings out of 495285
+ 13569 string characters out of 3179869
+ 69963 words of memory out of 3000000
+ 4203 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  23i,7n,19p,1227b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -365,9 +371,9 @@ blic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/publi
 c/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/am
 sfonts/cm/cmtt12.pfb>
-Output written on tf2manual.pdf (12 pages, 103612 bytes).
+Output written on tf2manual.pdf (32 pages, 145672 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

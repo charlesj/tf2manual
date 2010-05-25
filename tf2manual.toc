@@ -27,3 +27,14 @@
 \contentsline {subsection}{\numberline {3.6}Payload Race (plr\_*)}{10}
 \contentsline {subsection}{\numberline {3.7}Territory Control (tc\_*)}{10}
 \contentsline {subsection}{\numberline {3.8}Additional Battlefields}{10}
+\contentsline {section}{\numberline {4}Classes}{11}
+\contentsline {subsection}{\numberline {4.1}Scout}{12}
+\contentsline {subsection}{\numberline {4.2}Soldier}{14}
+\contentsline {subsection}{\numberline {4.3}Pyro}{16}
+\contentsline {subsection}{\numberline {4.4}Demoman}{18}
+\contentsline {subsection}{\numberline {4.5}Heavy}{20}
+\contentsline {subsection}{\numberline {4.6}Engineer}{21}
+\contentsline {subsection}{\numberline {4.7}Medic}{23}
+\contentsline {subsection}{\numberline {4.8}Sniper}{25}
+\contentsline {subsection}{\numberline {4.9}Spy}{27}
+\contentsline {subsection}{\numberline {4.10}Sandvich}{29}
