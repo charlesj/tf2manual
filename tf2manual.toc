@@ -47,3 +47,11 @@
 \contentsline {subsection}{\numberline {6.2}Taunts}{32}
 \contentsline {subsection}{\numberline {6.3}Achievements}{32}
 \contentsline {section}{\numberline {7}Appendices}{33}
+\contentsline {subsection}{\numberline {7.1}Appendix A - Console}{33}
+\contentsline {subsection}{\numberline {7.2}Appendix B - Launch Options}{34}
+\contentsline {subsection}{\numberline {7.3}Appendix C - Configuration Files}{35}
+\contentsline {subsection}{\numberline {7.4}Appendix D - Bots}{36}
+\contentsline {subsection}{\numberline {7.5}Appendix E - Map Installation}{37}
+\contentsline {subsection}{\numberline {7.6}Appendix F - Additional Battlefields}{38}
+\contentsline {subsection}{\numberline {7.7}Appendix G - Screenshots and Demo Recording}{39}
+\contentsline {subsection}{\numberline {7.8}Appendix H - Glossary and Jargon}{41}
