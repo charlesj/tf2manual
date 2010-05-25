@@ -1,3 +1,6 @@
 \contentsline {section}{\numberline {1}Introduction}{3}
 \contentsline {section}{\numberline {2}General Instructions}{4}
 \contentsline {subsection}{\numberline {2.1}Keyboard Controls}{4}
+\contentsline {subsection}{\numberline {2.2}Spawn Points \& Spawning}{5}
+\contentsline {subsection}{\numberline {2.3}Selecting a Class}{5}
+\contentsline {subsection}{\numberline {2.4}Maintaining Health}{5}
