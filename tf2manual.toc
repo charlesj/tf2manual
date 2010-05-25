@@ -16,3 +16,14 @@
 \contentsline {subsubsection}{\numberline {2.10.4}\IeC {\"U}bercharging Multiple People}{6}
 \contentsline {subsubsection}{\numberline {2.10.5}\IeC {\"U}bercharged Combatants}{7}
 \contentsline {subsubsection}{\numberline {2.10.6}Deploying an \IeC {\"U}bercharge}{7}
+\contentsline {section}{\numberline {3}Battlefields}{8}
+\contentsline {subsection}{\numberline {3.1}Arena (arena\_*)}{8}
+\contentsline {subsection}{\numberline {3.2}Control Points (cp\_*)}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Attack/defend}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}Five Control Point Push}{9}
+\contentsline {subsection}{\numberline {3.3}Capture the Flag (ctf\_*)}{9}
+\contentsline {subsection}{\numberline {3.4}King of the Hill (koth\_*)}{9}
+\contentsline {subsection}{\numberline {3.5}Payload (pl\_*)}{10}
+\contentsline {subsection}{\numberline {3.6}Payload Race (plr\_*)}{10}
+\contentsline {subsection}{\numberline {3.7}Territory Control (tc\_*)}{10}
+\contentsline {subsection}{\numberline {3.8}Additional Battlefields}{10}
