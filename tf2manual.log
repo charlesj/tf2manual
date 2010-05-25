@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 17:03
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 17:24
 entering extended mode
 **C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
 (C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
@@ -382,42 +382,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
 [39]) [40] (C:\Users\Nate\Documents\TF2Manual\glossary.tex [41])) [42]
 (C:\Users\Nate\Documents\TF2Manual\notes_credits.tex
-Overfull \hbox (39.91652pt too wide) in paragraph at lines 3--15
-\OT1/cmr/m/n/12 Useful Links http://teamfortress.com/ - Valve's of-fi-cial Team
- Fortress 2 blog http://tf2wiki.net/
+Overfull \hbox (3.63077pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/12 http://forums.steampowered.com/forums/forumdisplay.php?f=80 -
+ Valve hosted fo-rums 
  []
 
-
-Overfull \hbox (169.30406pt too wide) in paragraph at lines 3--15
-\OT1/cmr/m/n/12 - For ev-ery-thing any-one could need to know about TF2 http://
-forums.steampowered.com/forums/forumdisplay.php?f=80
- []
-
-
-Overfull \hbox (79.28694pt too wide) in paragraph at lines 3--15
-\OT1/cmr/m/n/12 http://www.reddit.com/r/tf2/ - The pri-mary Red-dit TF2 com-mu-
-nity http://www.reddit.com/r/tf2au/
- []
-
-) [43] (C:\Users\Nate\Documents\TF2Manual\tf2manual.aux) ) 
+[43]) [44] (C:\Users\Nate\Documents\TF2Manual\tf2manual.aux) ) 
 Here is how much of TeX's memory you used:
- 975 strings out of 495285
- 14528 string characters out of 3179881
+ 977 strings out of 495285
+ 14553 string characters out of 3179881
  65985 words of memory out of 3000000
- 4129 multiletter control sequences out of 15000+200000
+ 4131 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  23i,7n,19p,1379b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x8
-6)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)
-/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/Mi
-KTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTe
-X 2.8/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 
-2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.
-8/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tf2manual.pdf (46 pages, 176600 bytes).
+<C:/Program Files
+ (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (
+x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86
+)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/M
+iKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiK
+TeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
+X 2.8/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tf2manual.pdf (47 pages, 177222 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
+ 178 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
