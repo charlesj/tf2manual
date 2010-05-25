@@ -1,6 +1,7 @@
-\documentclass[letter,12pt]{article}
+\documentclass[letterpaper,12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{parskip}
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}
 \pagestyle{headings}
 \title{The Missing Team Fortress 2 Manual}
 \author{A Reddit Team Fortress 2 Community Project}
@@ -11,11 +12,18 @@
 \begin{document}
 
 \maketitle
+\thispagestyle{empty}
 \newpage
+\pagestyle{headings}
+\setcounter{page}{1}
+\pagenumbering{roman}
+
 \tableofcontents
 
 
 \newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
 \input{introduction.tex}
 
 
