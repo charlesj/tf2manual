@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 13:05
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  25 MAY 2010 14:23
 entering extended mode
 **C:/code/tf2manual/tf2manual.tex
 (C:/code/tf2manual/tf2manual.tex
@@ -357,29 +357,22 @@ Overfull \hbox (13.4316pt too wide) in paragraph at lines 105--106
 [27]) [28] (C:\code\tf2manual\sandvich.tex)) [29]
 (C:\code\tf2manual\teamstrategy.tex [30]) [31]
 (C:\code\tf2manual\combatant_presentation.tex) [32]
-
-! LaTeX Error: File `appendices.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: appendicies.tex
-(C:\code\tf2manual\appendicies.tex) [33] (C:\code\tf2manual\tf2manual.aux) ) 
+(C:\code\tf2manual\appendices.tex) [33] (C:\code\tf2manual\tf2manual.aux) ) 
 Here is how much of TeX's memory you used:
- 1024 strings out of 495285
- 13846 string characters out of 3179869
+ 1023 strings out of 495285
+ 13833 string characters out of 3179869
  69963 words of memory out of 3000000
  4203 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  23i,7n,19p,1363b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:
-/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program
- Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program F
-iles (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+<C:/
+Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program 
+Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
 Output written on tf2manual.pdf (36 pages, 155231 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
