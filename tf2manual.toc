@@ -54,5 +54,5 @@
 \contentsline {subsection}{\numberline {7.5}Appendix E - Map Installation}{37}{subsection.7.5}
 \contentsline {subsection}{\numberline {7.6}Appendix F - Additional Battlefields}{38}{subsection.7.6}
 \contentsline {subsection}{\numberline {7.7}Appendix G - Screenshots and Demo Recording}{39}{subsection.7.7}
-\contentsline {subsection}{\numberline {7.8}Appendix H - Glossary and Jargon}{41}{subsection.7.8}
-\contentsline {subsection}{\numberline {7.9}Appendix I - Additional Notes and Credits}{43}{subsection.7.9}
+\contentsline {subsection}{\numberline {7.8}Appendix H - Glossary and Jargon}{40}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.9}Appendix I - Additional Notes and Credits}{42}{subsection.7.9}

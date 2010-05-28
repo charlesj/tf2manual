@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.25)  28 MAY 2010 11:18
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.28)  28 MAY 2010 12:07
 entering extended mode
 **C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
 (C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
@@ -412,22 +412,47 @@ Package: geometry 2008/12/21 v4.2 Page Geometry
 \Gm@dimlist=\toks18
 
 ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\geometry\geometry.cfg"))
+(C:\Users\Nate\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\listings.sty
+\lst@mode=\count105
+\lst@gtempboxa=\box52
+\lst@token=\toks19
+\lst@length=\count106
+\lst@currlwidth=\dimen118
+\lst@column=\count107
+\lst@pos=\count108
+\lst@lostspace=\dimen119
+\lst@width=\dimen120
+\lst@newlines=\count109
+\lst@lineno=\count110
+\lst@maxwidth=\dimen121
+
+(C:\Users\Nate\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count111
+\lst@skipnumbers=\count112
+\lst@framebox=\box53
+)
+(C:\Users\Nate\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
 (C:\Users\Nate\Documents\TF2Manual\tf2manual.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-Package hyperref Info: Link coloring OFF on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+Package hyperref Info: Link coloring OFF on input line 24.
 
 ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -435,15 +460,15 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\refcount.sty"
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count105
+\c@section@level=\count113
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
 
 (C:\Users\Nate\Documents\TF2Manual\tf2manual.out)
 (C:\Users\Nate\Documents\TF2Manual\tf2manual.out)
 \@outlinefile=\write3
-\AtBeginShipoutBox=\box52
+\AtBeginShipoutBox=\box54
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -486,13 +511,14 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
+\c@lstlisting=\count114
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 17.
+(Font)              <14.4> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
+(Font)              <7> on input line 27.
 [1
 
-{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}]
+{C:/Users/Nate/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map}]
 (C:\Users\Nate\Documents\TF2Manual\tf2manual.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
@@ -515,7 +541,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \newpage
+l.51 \newpage
               [1] (C:\Users\Nate\Documents\TF2Manual\general_instructions.tex
 [2] [3] [4]
 Overfull \hbox (13.4316pt too wide) in paragraph at lines 105--106
@@ -545,31 +571,39 @@ Overfull \hbox (13.4316pt too wide) in paragraph at lines 105--106
 (C:\Users\Nate\Documents\TF2Manual\maps.tex) [37]
 (C:\Users\Nate\Documents\TF2Manual\additional_battlefields.tex) [38]
 (C:\Users\Nate\Documents\TF2Manual\screenshots.tex
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 5.
 
- []
-
-[39]) [40] (C:\Users\Nate\Documents\TF2Manual\glossary.tex [41])) [42]
-(C:\Users\Nate\Documents\TF2Manual\notes_credits.tex) [43]
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 5.
+) [39]
+(C:\Users\Nate\Documents\TF2Manual\glossary.tex [40])) [41]
+(C:\Users\Nate\Documents\TF2Manual\notes_credits.tex) [42]
 (C:\Users\Nate\Documents\TF2Manual\tf2manual.aux) ) 
 Here is how much of TeX's memory you used:
- 4369 strings out of 495285
- 66045 string characters out of 3179881
- 140752 words of memory out of 3000000
- 7346 multiletter control sequences out of 15000+200000
+ 5986 strings out of 495285
+ 87399 string characters out of 3179881
+ 167661 words of memory out of 3000000
+ 8935 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,7n,36p,1379b,343s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,7n,36p,1379b,1269s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKT
 eX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX
- 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.
-8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.8/f
-onts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts
-/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tf2manual.pdf (46 pages, 218458 bytes).
+ 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2
+.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.8/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type
+1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tf2manual.pdf (45 pages, 243497 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
  477 words of extra memory for PDF output out of 10000 (max. 10000000)
 
