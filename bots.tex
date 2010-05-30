@@ -1,34 +1,35 @@
 \subsection{Appendix D - Bots}
 Bots are players controlled by AI.  They generally aren't as sophisticated as human-controlled players, but they can be used when other humans aren't available.  Some servers use bots so both Red and Blu teams have a good number of players, even though only a few live people are actually connected.  Bots are also useful for those who wish to practice on their own.  This can be done by starting up a local server and loading any of Valve's King of the Hill TF2 maps. These maps are Viaduct, Nucleus, and Sawmill.  (While Harvest is also an official KOTH map, it does not have Bot support.)  Once the server is started, open up a console and type:
-
-tf\_bot\_add <number> <class> <team>
-
-Replace <number> with the number of bots wanted, <class> with the class they will play (or do not include it, in which case a random class will be chosen), and then the team, Red or Blu.
+\begin{lstlisting}
+tf_bot_add <number> <class> <team>
+\end{lstlisting}
+Replace \textless number\textgreater~with the number of bots wanted, \textless class\textgreater~with the class they will play (if omitted, a random class will be chosen), and then the team, Red or Blu.
 
 From this point forward, the match will proceed normally, although beware that the more bots in the game, the slower the game will run.
 
 TF2 has the ability to use bots on any map, although their functionality is not perfect.  In order to do this, there are a few additional steps:
 
 Start a server From the main menu choose "Create Server."  The map can be chosen here as well.  Alternatively, open the console and type:
-
+\begin{lstlisting}
 map <map name>
-
+\end{lstlisting}
 It will start a server loaded up with that map.
 
 Open up the console and turn cheats on:
-
-sv\_cheats 1
-
+\begin{lstlisting}
+sv_cheats 1
+\end{lstlisting}
 Run the navigation generation command:
-
-nav\_generate
-
+\begin{lstlisting}
+nav_generate
+\end{lstlisting}
 This will take a few minutes to complete.  Once the process completes, the server will restart.  Bots can be added right away, but for stat tracking and achievements to work, cheats must be turned back off:
-
-sv\_cheat 0
-
+\begin{lstlisting}
+sv_cheat 0
+\end{lstlisting}
 With cheats off, progress can be made towards Achievements.  To prevent this from happening, leave cheats turned on.
 
 To keep bots from changing classes after they die, type this into the console:
-
-tf\_bot\_keep\_class\_after\_death 1
+\begin{lstlisting}
+tf_bot_keep_class_after_death 1
+\end{lstlisting}
