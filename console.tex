@@ -2,41 +2,45 @@
 Combatants who wish for more advanced control during combat may wish to use the Console, which can be accessed using the "`" key. To do so, check "Enable Developer Console" under the advanced keyboard options.
 
 Helpful commands:
-       
-Option
-        
-Description
-            
-net\_graph 1
-        
-Displays frames per second, ping and other statistics in the bottom right corner
-            
-net\_graph 0
-        
-Turns off the above display
-            
-cl\_showfps 2
-        
-Displays only fps in smaller text in the top right corner of the screen
-            
-voice\_loopback 1
-        
-Plays personal voice communications back through the computer.
-            
-bind [key] [command]
-        
+
+Display frames per second, ping and other statistics in the bottom right corner
+\begin{lstlisting}
+net_graph 1
+\end{lstlisting}
+
+Turn off the above display
+\begin{lstlisting}   
+net_graph 0
+\end{lstlisting}
+
+Display only fps in smaller text in the top right corner of the screen
+\begin{lstlisting}
+cl_showfps 2
+\end{lstlisting}
+
+Play personal voice communications back through the computer
+\begin{lstlisting}
+voice_loopback 1
+\end{lstlisting}
+
 Used for creating or overwriting key binds in the game
-            
+\begin{lstlisting}
+bind [key] [command]
+\end{lstlisting}
+
+Kill the player character
+\begin{lstlisting}
 kill
-        
-Will cause the player character to die
-            
+\end{lstlisting}
+
+Explode the player character
+\begin{lstlisting}
 explode
-        
-Will cause the player character to gib
+\end{lstlisting}
 
-hud\_reloadscheme
-
-Reloads the Heads-Up-Display, removing HUD errors.
+Reload the Heads-Up-Display, removing HUD errors.
+\begin{lstlisting}
+hud_reloadscheme
+\end{lstlisting}
  
 Any commands can be inserted into a configuration file in order to be executed automatically upon program start.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.28)  30 MAY 2010 00:35
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.28)  2 JUN 2010 10:00
 entering extended mode
 **C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
 (C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
@@ -565,10 +565,11 @@ Overfull \hbox (13.4316pt too wide) in paragraph at lines 105--106
 (C:\Users\Nate\Documents\TF2Manual\combatant_presentation.tex) [32]
 (C:\Users\Nate\Documents\TF2Manual\appendices.tex
 (C:\Users\Nate\Documents\TF2Manual\console.tex) [33]
-(C:\Users\Nate\Documents\TF2Manual\launch_options.tex) [34]
-(C:\Users\Nate\Documents\TF2Manual\configuration.tex
+(C:\Users\Nate\Documents\TF2Manual\launch_options.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 7.
+(Font)              <5> on input line 8.
+) [34]
+(C:\Users\Nate\Documents\TF2Manual\configuration.tex
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
 ) [35]
@@ -590,8 +591,8 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (C:\Users\Nate\Documents\TF2Manual\notes_credits.tex) [42]
 (C:\Users\Nate\Documents\TF2Manual\tf2manual.aux) ) 
 Here is how much of TeX's memory you used:
- 6011 strings out of 495285
- 87729 string characters out of 3179881
+ 6043 strings out of 495285
+ 88197 string characters out of 3179881
  167661 words of memory out of 3000000
  8937 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
@@ -607,9 +608,9 @@ nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts
 pe1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/
 public/amsfonts/cm/cmtt12.pfb>
-Output written on tf2manual.pdf (45 pages, 257336 bytes).
+Output written on tf2manual.pdf (45 pages, 264626 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
+ 641 PDF objects out of 1000 (max. 8388607)
+ 176 named destinations out of 1000 (max. 500000)
  477 words of extra memory for PDF output out of 10000 (max. 10000000)
 
