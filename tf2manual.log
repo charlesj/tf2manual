@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.28)  3 JUN 2010 09:13
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.28)  3 JUN 2010 09:34
 entering extended mode
 **C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
 (C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
@@ -437,7 +437,11 @@ File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
-(C:\Users\Nate\Documents\TF2Manual\tf2manual.aux)
+(C:\Users\Nate\Documents\TF2Manual\tf2manual.aux
+
+LaTeX Warning: Label `table_common_actions' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -453,8 +457,7 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 Package hyperref Info: Link coloring OFF on input line 24.
-
-("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\refcount.sty"
@@ -564,8 +567,12 @@ Overfull \hbox (13.4316pt too wide) in paragraph at lines 105--106
 (C:\Users\Nate\Documents\TF2Manual\teamstrategy.tex [30]) [31]
 (C:\Users\Nate\Documents\TF2Manual\combatant_presentation.tex) [32]
 (C:\Users\Nate\Documents\TF2Manual\appendices.tex
-(C:\Users\Nate\Documents\TF2Manual\console.tex) [33]
-(C:\Users\Nate\Documents\TF2Manual\launch_options.tex
+(C:\Users\Nate\Documents\TF2Manual\console.tex
+Overfull \hbox (2.67554pt too wide) in paragraph at lines 7--22
+[][]
+ []
+
+) [33] (C:\Users\Nate\Documents\TF2Manual\launch_options.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
 ) [34]
@@ -589,28 +596,31 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (C:\Users\Nate\Documents\TF2Manual\screenshots.tex) [39]
 (C:\Users\Nate\Documents\TF2Manual\glossary.tex [40])) [41]
 (C:\Users\Nate\Documents\TF2Manual\notes_credits.tex) [42]
-(C:\Users\Nate\Documents\TF2Manual\tf2manual.aux) ) 
+(C:\Users\Nate\Documents\TF2Manual\tf2manual.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 6047 strings out of 495285
- 88277 string characters out of 3179881
+ 6032 strings out of 495285
+ 88048 string characters out of 3179881
  167678 words of memory out of 3000000
  8939 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,7n,36p,1379b,1262s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKT
-eX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX
- 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2
-.8/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.8
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts
-/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/ty
-pe1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/
-public/amsfonts/cm/cmtt12.pfb>
-Output written on tf2manual.pdf (45 pages, 266229 bytes).
+ 37i,10n,36p,1379b,1262s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/
+Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program F
+iles (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tf2manual.pdf (45 pages, 264200 bytes).
 PDF statistics:
- 651 PDF objects out of 1000 (max. 8388607)
- 178 named destinations out of 1000 (max. 500000)
+ 634 PDF objects out of 1000 (max. 8388607)
+ 163 named destinations out of 1000 (max. 500000)
  493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
