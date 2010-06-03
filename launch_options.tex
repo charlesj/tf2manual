@@ -3,37 +3,24 @@ Combatants can alter the way they are launched into battle. They do this by righ
 
 The following is a list of some of the more commonly used options and the launch flag used to trigger them:
 
-Remove the Valve introduction video:
-\begin{lstlisting}
--novid
-\end{lstlisting}
-Open the console when the game opens:
-\begin{lstlisting}
--console
-\end{lstlisting}
-Launche the game in a window:
-\begin{lstlisting}
--window
-\end{lstlisting}
-Remove the window border in windowed mode:
-\begin{lstlisting}
--noborder
-\end{lstlisting}
-Open the game in fullscreen mode:
-\begin{lstlisting}
--full
-\end{lstlisting}
-Manually set the horizontal resolution of the window:
-\begin{lstlisting}
--width (or -w)
-\end{lstlisting}
-Manually set the vertical resolution of the window:
-\begin{lstlisting}
--height (or -h)
-\end{lstlisting}
-Manually set the amount of RAM the game will use:
-\begin{lstlisting}
--heapsize [kilobytes]
-\end{lstlisting}
+\begin{table}[h!b!p!]
+\caption{Common Launch Options}
+\begin{tabular}{|l|p{10.5cm}|}
+	\hline
+		Option & Description\\
+	\hline
+	\texttt{-novid}&Remove the Valve introduction video\\
+	\texttt{-console}&Open the console when the game opens\\
+	\texttt{-window}&Launch the game in a window\\
+	\texttt{-noborder}&Remove the window border in windowed mode\\
+	\texttt{-full}&Open the game in fullscreen mode\\
+	\texttt{-width (or -w)}&Manually set the width resolution of the window\\
+	\texttt{-height (or -h)}&Manually set the horizontal resolution of the window\\
+	\texttt{-heapsize [kilobytes]}&Manually set the amount of RAM the game will use\\
+
+  	\hline
+\end{tabular}
+\label{table_launch_options}
+\end{table}
 
 Tip: Using a borderless window (with "-window -noborder") is useful for quickly switching applications (a.k.a "alt+tabbing").  A borderless window set to the exact resolution of the monitor's desktop will look exactly the same as the default full screen mode.
