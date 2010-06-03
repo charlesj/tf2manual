@@ -1,0 +1,7 @@
+#ignore generated files
+*.pdf
+*.aux
+*.log
+*.gz
+*.toc
+*.out
