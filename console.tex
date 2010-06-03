@@ -2,45 +2,24 @@
 Combatants who wish for more advanced control during combat may wish to use the Console, which can be accessed using the "`" key. To do so, check "Enable Developer Console" under the advanced keyboard options.
 
 Helpful commands:
+\begin{table}[h!b!p!]
+\caption{Common Actions}
+\begin{tabular}{|l|p{10.5cm}|}
+	\hline
+		Command & Description\\
+	\hline
+	\texttt{net\_graph 1}&Display frames per second, ping and other statistics in the bottom right corner\\
+	\texttt{net\_graph 0}&Turn off the above display\\
+	\texttt{cl\_showfps 2}&Display only fps in smaller text in the top right corner of the screen\\
+	\texttt{voice\_loopback 1}&Play personal voice communications back through the computer\\
+	\texttt{bind [key] [command]}&Used for creating or overwriting key binds in the game\\
+	\texttt{kill}&Kill the player character\\
+	\texttt{explode}&Explode the player character\\
+	\texttt{hud\_reloadscheme}&Reload the Heads-Up-Display, removing HUD errors.\\
+  	\hline
+\end{tabular}
+\label{table_common_actions}
+\end{table}
 
-Display frames per second, ping and other statistics in the bottom right corner
-\begin{lstlisting}
-net_graph 1
-\end{lstlisting}
 
-Turn off the above display
-\begin{lstlisting}   
-net_graph 0
-\end{lstlisting}
-
-Display only fps in smaller text in the top right corner of the screen
-\begin{lstlisting}
-cl_showfps 2
-\end{lstlisting}
-
-Play personal voice communications back through the computer
-\begin{lstlisting}
-voice_loopback 1
-\end{lstlisting}
-
-Used for creating or overwriting key binds in the game
-\begin{lstlisting}
-bind [key] [command]
-\end{lstlisting}
-
-Kill the player character
-\begin{lstlisting}
-kill
-\end{lstlisting}
-
-Explode the player character
-\begin{lstlisting}
-explode
-\end{lstlisting}
-
-Reload the Heads-Up-Display, removing HUD errors.
-\begin{lstlisting}
-hud_reloadscheme
-\end{lstlisting}
- 
 Any commands can be inserted into a configuration file in order to be executed automatically upon program start.
