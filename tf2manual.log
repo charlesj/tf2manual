@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.28)  2 JUN 2010 10:11
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.5.28)  3 JUN 2010 09:11
 entering extended mode
 **C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
 (C:/Users/Nate/Documents/TF2Manual/tf2manual.tex
@@ -591,10 +591,10 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (C:\Users\Nate\Documents\TF2Manual\notes_credits.tex) [42]
 (C:\Users\Nate\Documents\TF2Manual\tf2manual.aux) ) 
 Here is how much of TeX's memory you used:
- 6043 strings out of 495285
- 88197 string characters out of 3179881
+ 6047 strings out of 495285
+ 88277 string characters out of 3179881
  167678 words of memory out of 3000000
- 8937 multiletter control sequences out of 15000+200000
+ 8939 multiletter control sequences out of 15000+200000
  9329 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,7n,36p,1379b,1262s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -608,9 +608,9 @@ nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts
 pe1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/
 public/amsfonts/cm/cmtt12.pfb>
-Output written on tf2manual.pdf (45 pages, 264626 bytes).
+Output written on tf2manual.pdf (45 pages, 266229 bytes).
 PDF statistics:
- 641 PDF objects out of 1000 (max. 8388607)
- 176 named destinations out of 1000 (max. 500000)
- 477 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 651 PDF objects out of 1000 (max. 8388607)
+ 178 named destinations out of 1000 (max. 500000)
+ 493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
