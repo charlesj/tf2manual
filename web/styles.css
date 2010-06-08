@@ -1,10 +1,4 @@
-body
-{
-	background: #34302D;
-	/*color: #F5E7DE;*/
-	color: #fff;
-	font-family: sans-serif;
-}
+body{background: #34302D;color: #fff;font-family: sans-serif;}
 
 @font-face {
   font-family: "tf2build";
@@ -15,11 +9,7 @@ h1{ font-family: "tf2build", sans-serif; font-weight: bold; font-size: 40px; mar
 h2{ margin-top: 0px; font-size: 11px; }
 h3{ font-family: "tf2build", sans-serif; font-weight: bold; }
 
-
-a
-{
-	color: #fff;
-}
+a{color: #fff;}
 
 .box, .redbox, .bluebox
 {
