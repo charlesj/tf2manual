@@ -1,4 +1,4 @@
-body{background: #34302D;color: #fff;font-family: sans-serif;}
+body{background: #34302D;color: #fff;font-family: sans-serif;background-image:url('images/bg.png');background-repeat:repeat-x;}
 
 @font-face {
   font-family: "tf2build";
@@ -53,4 +53,5 @@ h3
 	clear: both;
 	font-size: 9px;
 	padding-top: 10px;
+	color: #000;
 }
