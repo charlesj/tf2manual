@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html>
 	<head>
-		<title>TF2 Manual (Lite)</title>
-
+		<title>The Missing Team Fortress 2 Manual</title>
+		<link href="styles.css" rel="stylesheet" type="text/css" />
+		
 		<script type="text/javascript">
 
 		  var _gaq = _gaq || [];
@@ -14,12 +16,14 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
 
-		setTimeout( "window.location.href = 'tf2manual_lite.pdf'", 5*1000 );
-
 		</script>
 	</head>
 	<body>
-	Redirecting... <a href="tf2manual_lite.pdf">Click Here if it doesn't automatically redirect</a>
-	
-	</body>
-</html>
+		<p><a href="index.php">Home</a> | <a href="resources.php">Supplementary Resources</a></p>
+		
+		<h1>The Missing Team Fortress 2 Manual</h1>
+		
+		
+		<h2>A Reddit Team Fortress 2 Community Project</h2>
+		
+		
