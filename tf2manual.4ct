@@ -1,0 +1,84 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{1}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Introduction}}{1}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-3}{General Instructions}}{2}\relax 
+\doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{1}{x1-40002.1}{QQ2-1-4}{Keyboard Controls}}{2}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-40011}{}{\ignorespaces Common Actions}}{table}\relax 
+\doTocEntry\toclot{2}{\csname a:TocLink\endcsname{1}{x1-40022}{}{\ignorespaces Voice Commands}}{table}\relax 
+\doTocEntry\toclot{3}{\csname a:TocLink\endcsname{1}{x1-40033}{}{\ignorespaces Gameplay Actions}}{table}\relax 
+\doTocEntry\tocsubsection{2.2}{\csname a:TocLink\endcsname{1}{x1-50002.2}{QQ2-1-8}{Spawn Points \& Spawning}}{11}\relax 
+\doTocEntry\tocsubsection{2.3}{\csname a:TocLink\endcsname{1}{x1-60002.3}{QQ2-1-9}{Selecting a Class}}{11}\relax 
+\doTocEntry\tocsubsection{2.4}{\csname a:TocLink\endcsname{1}{x1-70002.4}{QQ2-1-10}{Maintaining Health}}{11}\relax 
+\doTocEntry\tocsubsection{2.5}{\csname a:TocLink\endcsname{1}{x1-80002.5}{QQ2-1-11}{Maintaining Ammunition}}{12}\relax 
+\doTocEntry\tocsubsection{2.6}{\csname a:TocLink\endcsname{1}{x1-90002.6}{QQ2-1-12}{Weapon Drops}}{12}\relax 
+\doTocEntry\tocsubsection{2.7}{\csname a:TocLink\endcsname{1}{x1-100002.7}{QQ2-1-13}{Changing Loadout}}{12}\relax 
+\doTocEntry\tocsubsection{2.8}{\csname a:TocLink\endcsname{1}{x1-110002.8}{QQ2-1-14}{Critical Hits}}{13}\relax 
+\doTocEntry\tocsubsection{2.9}{\csname a:TocLink\endcsname{1}{x1-120002.9}{QQ2-1-15}{Mini-Crits}}{14}\relax 
+\doTocEntry\tocsubsection{2.10}{\csname a:TocLink\endcsname{1}{x1-130002.10}{QQ2-1-16}{\IeC {\"U}bercharge}}{16}\relax 
+\doTocEntry\tocsubsubsection{2.10.1}{\csname a:TocLink\endcsname{1}{x1-140002.10.1}{QQ2-1-17}{Standard \IeC {\"U}bercharge}}{16}\relax 
+\doTocEntry\tocsubsubsection{2.10.2}{\csname a:TocLink\endcsname{1}{x1-150002.10.2}{QQ2-1-18}{Kritz \IeC {\"U}bercharge}}{16}\relax 
+\doTocEntry\tocsubsubsection{2.10.3}{\csname a:TocLink\endcsname{1}{x1-160002.10.3}{QQ2-1-19}{Reacting to an Enemy \IeC {\"U}bercharge or Kritzkrieg}}{16}\relax 
+\doTocEntry\tocsubsubsection{2.10.4}{\csname a:TocLink\endcsname{1}{x1-170002.10.4}{QQ2-1-20}{\IeC {\"U}bercharging Multiple Teammates}}{18}\relax 
+\doTocEntry\tocsubsubsection{2.10.5}{\csname a:TocLink\endcsname{1}{x1-180002.10.5}{QQ2-1-21}{\IeC {\"U}bercharged Combatants}}{18}\relax 
+\doTocEntry\tocsubsubsection{2.10.6}{\csname a:TocLink\endcsname{1}{x1-190002.10.6}{QQ2-1-22}{Deploying an \IeC {\"U}bercharge}}{18}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-200003}{QQ2-1-23}{Battlefields}}{19}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-210003.1}{QQ2-1-24}{Arena (arena\_*)}}{19}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{1}{x1-220003.2}{QQ2-1-25}{Control Points (cp\_*)}}{19}\relax 
+\doTocEntry\tocsubsubsection{3.2.1}{\csname a:TocLink\endcsname{1}{x1-230003.2.1}{QQ2-1-26}{Attack/defend}}{19}\relax 
+\doTocEntry\tocsubsubsection{3.2.2}{\csname a:TocLink\endcsname{1}{x1-240003.2.2}{QQ2-1-27}{Five Control Point Push}}{20}\relax 
+\doTocEntry\tocsubsection{3.3}{\csname a:TocLink\endcsname{1}{x1-250003.3}{QQ2-1-28}{Capture the Flag (ctf\_*)}}{20}\relax 
+\doTocEntry\tocsubsection{3.4}{\csname a:TocLink\endcsname{1}{x1-260003.4}{QQ2-1-29}{King of the Hill (koth\_*)}}{21}\relax 
+\doTocEntry\tocsubsection{3.5}{\csname a:TocLink\endcsname{1}{x1-270003.5}{QQ2-1-30}{Payload (pl\_*)}}{21}\relax 
+\doTocEntry\tocsubsection{3.6}{\csname a:TocLink\endcsname{1}{x1-280003.6}{QQ2-1-31}{Payload Race (plr\_*)}}{21}\relax 
+\doTocEntry\tocsubsection{3.7}{\csname a:TocLink\endcsname{1}{x1-290003.7}{QQ2-1-32}{Territory Control (tc\_*)}}{22}\relax 
+\doTocEntry\tocsubsection{3.8}{\csname a:TocLink\endcsname{1}{x1-300003.8}{QQ2-1-33}{Additional Battlefields}}{22}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-310004}{QQ2-1-34}{Classes}}{23}\relax 
+\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{1}{x1-320004.1}{QQ2-1-35}{Scout}}{24}\relax 
+\doTocEntry\tocsubsubsection{4.1.1}{\csname a:TocLink\endcsname{1}{x1-330004.1.1}{QQ2-1-36}{Weapons}}{24}\relax 
+\doTocEntry\tocsubsubsection{4.1.2}{\csname a:TocLink\endcsname{1}{x1-340004.1.2}{QQ2-1-37}{Tactics}}{26}\relax 
+\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{1}{x1-350004.2}{QQ2-1-38}{Soldier}}{27}\relax 
+\doTocEntry\tocsubsubsection{4.2.1}{\csname a:TocLink\endcsname{1}{x1-360004.2.1}{QQ2-1-39}{Weapons}}{27}\relax 
+\doTocEntry\tocsubsubsection{4.2.2}{\csname a:TocLink\endcsname{1}{x1-370004.2.2}{QQ2-1-40}{Tactics}}{29}\relax 
+\doTocEntry\tocsubsection{4.3}{\csname a:TocLink\endcsname{1}{x1-380004.3}{QQ2-1-41}{Pyro}}{31}\relax 
+\doTocEntry\tocsubsubsection{4.3.1}{\csname a:TocLink\endcsname{1}{x1-390004.3.1}{QQ2-1-42}{Weapons}}{31}\relax 
+\doTocEntry\tocsubsubsection{4.3.2}{\csname a:TocLink\endcsname{1}{x1-400004.3.2}{QQ2-1-43}{Tactics}}{33}\relax 
+\doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{1}{x1-410004.4}{QQ2-1-44}{Demoman}}{35}\relax 
+\doTocEntry\tocsubsubsection{4.4.1}{\csname a:TocLink\endcsname{1}{x1-420004.4.1}{QQ2-1-45}{Weapons}}{35}\relax 
+\doTocEntry\tocsubsubsection{4.4.2}{\csname a:TocLink\endcsname{1}{x1-430004.4.2}{QQ2-1-46}{Tactics}}{37}\relax 
+\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{1}{x1-440004.5}{QQ2-1-47}{Heavy}}{39}\relax 
+\doTocEntry\tocsubsubsection{4.5.1}{\csname a:TocLink\endcsname{1}{x1-450004.5.1}{QQ2-1-48}{Weapons}}{39}\relax 
+\doTocEntry\tocsubsubsection{4.5.2}{\csname a:TocLink\endcsname{1}{x1-460004.5.2}{QQ2-1-49}{Tactics}}{41}\relax 
+\doTocEntry\tocsubsubsection{4.5.3}{\csname a:TocLink\endcsname{1}{x1-470004.5.3}{QQ2-1-50}{Sandvich}}{41}\relax 
+\doTocEntry\tocsubsection{4.6}{\csname a:TocLink\endcsname{1}{x1-480004.6}{QQ2-1-51}{Engineer}}{43}\relax 
+\doTocEntry\tocsubsubsection{4.6.1}{\csname a:TocLink\endcsname{1}{x1-490004.6.1}{QQ2-1-52}{Weapons}}{43}\relax 
+\doTocEntry\tocsubsubsection{4.6.2}{\csname a:TocLink\endcsname{1}{x1-500004.6.2}{QQ2-1-53}{Tactics}}{44}\relax 
+\doTocEntry\tocsubsection{4.7}{\csname a:TocLink\endcsname{1}{x1-510004.7}{QQ2-1-54}{Medic}}{46}\relax 
+\doTocEntry\tocsubsubsection{4.7.1}{\csname a:TocLink\endcsname{1}{x1-520004.7.1}{QQ2-1-55}{Weapons}}{46}\relax 
+\doTocEntry\tocsubsubsection{4.7.2}{\csname a:TocLink\endcsname{1}{x1-530004.7.2}{QQ2-1-56}{Tactics}}{47}\relax 
+\doTocEntry\tocsubsection{4.8}{\csname a:TocLink\endcsname{1}{x1-540004.8}{QQ2-1-57}{Sniper}}{49}\relax 
+\doTocEntry\tocsubsubsection{4.8.1}{\csname a:TocLink\endcsname{1}{x1-550004.8.1}{QQ2-1-58}{Weapons}}{49}\relax 
+\doTocEntry\tocsubsubsection{4.8.2}{\csname a:TocLink\endcsname{1}{x1-560004.8.2}{QQ2-1-59}{Tactics}}{51}\relax 
+\doTocEntry\tocsubsection{4.9}{\csname a:TocLink\endcsname{1}{x1-570004.9}{QQ2-1-60}{Spy}}{53}\relax 
+\doTocEntry\tocsubsubsection{4.9.1}{\csname a:TocLink\endcsname{1}{x1-580004.9.1}{QQ2-1-61}{Weapons}}{53}\relax 
+\doTocEntry\tocsubsubsection{4.9.2}{\csname a:TocLink\endcsname{1}{x1-590004.9.2}{QQ2-1-62}{Tactics}}{55}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-600005}{QQ2-1-63}{Team Strategy}}{57}\relax 
+\doTocEntry\tocsubsection{5.1}{\csname a:TocLink\endcsname{1}{x1-610005.1}{QQ2-1-64}{Communication Guidelines}}{57}\relax 
+\doTocEntry\tocsubsection{5.2}{\csname a:TocLink\endcsname{1}{x1-620005.2}{QQ2-1-65}{Engineer-related Etiquette}}{57}\relax 
+\doTocEntry\tocsubsection{5.3}{\csname a:TocLink\endcsname{1}{x1-630005.3}{QQ2-1-66}{Other Information}}{58}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-640006}{QQ2-1-67}{Combatant Presentation}}{59}\relax 
+\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{1}{x1-650006.1}{QQ2-1-68}{Crafting}}{59}\relax 
+\doTocEntry\tocsubsection{6.2}{\csname a:TocLink\endcsname{1}{x1-660006.2}{QQ2-1-69}{Taunts}}{59}\relax 
+\doTocEntry\tocsubsection{6.3}{\csname a:TocLink\endcsname{1}{x1-670006.3}{QQ2-1-70}{Achievements}}{59}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-680007}{QQ2-1-71}{Appendices}}{61}\relax 
+\doTocEntry\tocsubsection{7.1}{\csname a:TocLink\endcsname{1}{x1-690007.1}{QQ2-1-72}{Appendix A - Console}}{61}\relax 
+\doTocEntry\toclot{4}{\csname a:TocLink\endcsname{1}{x1-690014}{}{\ignorespaces Helpful Commands}}{table}\relax 
+\doTocEntry\tocsubsection{7.2}{\csname a:TocLink\endcsname{1}{x1-700007.2}{QQ2-1-74}{Appendix B - Launch Options}}{65}\relax 
+\doTocEntry\toclot{5}{\csname a:TocLink\endcsname{1}{x1-700015}{}{\ignorespaces Common Launch Options}}{table}\relax 
+\doTocEntry\tocsubsection{7.3}{\csname a:TocLink\endcsname{1}{x1-710007.3}{QQ2-1-76}{Appendix C - Configuration Files}}{69}\relax 
+\doTocEntry\tocsubsection{7.4}{\csname a:TocLink\endcsname{1}{x1-720007.4}{QQ2-1-77}{Appendix D - Bots}}{70}\relax 
+\doTocEntry\tocsubsection{7.5}{\csname a:TocLink\endcsname{1}{x1-730007.5}{QQ2-1-78}{Appendix E - Map Installation}}{72}\relax 
+\doTocEntry\tocsubsection{7.6}{\csname a:TocLink\endcsname{1}{x1-740007.6}{QQ2-1-79}{Appendix F - Additional Battlefields}}{73}\relax 
+\doTocEntry\tocsubsection{7.7}{\csname a:TocLink\endcsname{1}{x1-750007.7}{QQ2-1-80}{Appendix G - Screenshots and Demo Recording}}{74}\relax 
+\doTocEntry\tocsubsection{7.8}{\csname a:TocLink\endcsname{1}{x1-760007.8}{QQ2-1-81}{Appendix H - Glossary and Jargon}}{76}\relax 
+\doTocEntry\tocsubsection{7.9}{\csname a:TocLink\endcsname{1}{x1-770007.9}{QQ2-1-82}{Appendix I - Additional Notes and Credits}}{80}\relax 
+\par 
