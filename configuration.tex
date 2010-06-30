@@ -3,11 +3,11 @@ There are two types of configuration files: general and class specific. General 
 
 Example script, for servers with both Team-Talk and All-Talk:
 \begin{lstlisting}
-alias +teamonly "+teamtalk;+voicerecord"
-alias -teamonly "-teamtalk;-voicerecord"
+alias +teamonly ``+teamtalk;+voicerecord"
+alias -teamonly ``-teamtalk;-voicerecord"
 bind f +teamonly
 bind v +voicerecord
-voice\_loopback 1
+voice_loopback 1
 \end{lstlisting}
 
-This script will find the "f" key to Team-Talk only, so only teammate communication will be enabled, while "v" will be for communication with both teams.  Finally, it will play back personal voice communications.
+This script will find the `f' key to Team-Talk only, so only teammate communication will be enabled, while `v' will be for communication with both teams.  Finally, it will play back personal voice communications.
